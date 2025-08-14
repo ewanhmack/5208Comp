@@ -1,0 +1,15 @@
+E:\6107COMP\6107COMP-Workshop-Template (NEW)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+E:\6107COMP\6107COMP-Workshop-Template (NEW)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.pdb
+C:\Users\Sud\Downloads\6107COMP-Coursework-Template (2019)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+C:\Users\Sud\Downloads\5108COMP-Coursework-Template (2019)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+C:\Users\CSMMBURN\Local\Coursework\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+C:\Users\csmemack\Workspace\MATTHEW AAAAAAAAAAAAAAAAAAAAAAAAA\Coursework\Coursework\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+E:\My Files\Uni\Year 2\5208Comp\Coursework\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+E:\My Files\Uni\Year 2\5208Comp\Coursework\backup\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+E:\My Files\Uni\Year 2\5208Comp\Coursework\backup\5208-29.11.24 Coursework\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+E:\My Files\Uni\Year 2\5208Comp\Coursework\backup\OBJ-Coursework\5208-29.11.24 Coursework\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+C:\Users\csmemack\Workspace\5208-29.11.24 Coursework\5208-29.11.24 Coursework\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+C:\Users\ewanm\Downloads\5208COMP-Coursework-Template (2022) (4)\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+C:\Users\csmemack\Workspace\5208COMP-Coursework-Template (2022) (4)\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+C:\Users\ewanm\Downloads\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib

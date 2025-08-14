@@ -1,0 +1,33 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  lparser.c
+  Generating Code...
+  Compiling...
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lundump.c
+  lvm.c
+  lzio.c
+  Generating Code...
+  LuaLib.vcxproj -> E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\lua-5.1.4\LuaLib\Bin\Win32\Debug\LuaLib.lib

@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  AlphaTestEffect.cpp
+  BasicEffect.cpp
+  CommonStates.cpp
+  DDSTextureLoader.cpp
+  DualTextureEffect.cpp
+  BinaryReader.cpp
+  EffectCommon.cpp
+  EnvironmentMapEffect.cpp
+  GeometricPrimitive.cpp
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Src\GeometricPrimitive.cpp(597,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Src\GeometricPrimitive.cpp(598,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ScreenGrab.cpp
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Src\ScreenGrab.cpp(788,36): warning C4838: conversion from 'UINT' to 'INT' requires a narrowing conversion
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Src\ScreenGrab.cpp(788,48): warning C4838: conversion from 'UINT' to 'INT' requires a narrowing conversion
+  SkinnedEffect.cpp
+  SpriteBatch.cpp
+  PrimitiveBatch.cpp
+  SpriteFont.cpp
+  VertexTypes.cpp
+  WICTextureLoader.cpp
+  Generating Code...
+  DirectXTK_Desktop_2012.vcxproj -> E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib

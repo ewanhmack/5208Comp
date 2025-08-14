@@ -1,0 +1,28 @@
+﻿  LJMUGeometryActor.cpp
+  LJMULevelDemo.cpp
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.h(136,50): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.h(136,44): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.h(136,38): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.h(137,54): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.h(137,47): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.h(137,40): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(101,47): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(102,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(103,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(227,20): warning C4018: '<': signed/unsigned mismatch
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(511,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(512,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(621,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(621,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(660,46): warning C4244: 'argument': conversion from 'float' to 'UINT', possible loss of data
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(660,30): warning C4244: 'argument': conversion from 'float' to 'UINT', possible loss of data
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(776,50): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(776,43): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMULevelDemo.cpp(776,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  LJMUMeshOBJ.cpp
+  LJMUSpriteOverlay.cpp
+  LJMUTextOverlay.cpp
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\5208COMP-Coursework-Template\LJMUTextOverlay.cpp(38,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  LINK : E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\Bin\5208COMP-Coursework-Template.exe not found or not built by the last incremental link; performing full link
+  5208COMP-Coursework-Template.vcxproj -> E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Applications\Bin\5208COMP-Coursework-Template.exe

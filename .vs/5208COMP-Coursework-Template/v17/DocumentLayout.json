@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Files\\Uni\\Handed in CW\\5208COMP-Coursework-Template (2022) (3)\\5208COMP-Coursework-Template (2022)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78E22633-FE9D-428D-80AD-7DEAA7B59E22}|Applications\\5208COMP-Coursework-Template\\5208COMP-Coursework-Template.vcxproj|E:\\My Files\\Uni\\Handed in CW\\5208COMP-Coursework-Template (2022) (3)\\5208COMP-Coursework-Template (2022)\\Applications\\5208COMP-Coursework-Template\\LJMUGeometryActor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78E22633-FE9D-428D-80AD-7DEAA7B59E22}|Applications\\5208COMP-Coursework-Template\\5208COMP-Coursework-Template.vcxproj|solutionrelative:Applications\\5208COMP-Coursework-Template\\LJMUGeometryActor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6D257E-70D5-46C5-8A12-7BDF93C35E81}|Source\\Hieroglyph3_Desktop.vcxproj|E:\\My Files\\Uni\\Handed in CW\\5208COMP-Coursework-Template (2022) (3)\\5208COMP-Coursework-Template (2022)\\Source\\Rendering\\ShaderStageStateDX11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F6D257E-70D5-46C5-8A12-7BDF93C35E81}|Source\\Hieroglyph3_Desktop.vcxproj|solutionrelative:Source\\Rendering\\ShaderStageStateDX11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShaderStageStateDX11.cpp",
+              "DocumentMoniker": "E:\\My Files\\Uni\\Handed in CW\\5208COMP-Coursework-Template (2022) (3)\\5208COMP-Coursework-Template (2022)\\Source\\Rendering\\ShaderStageStateDX11.cpp",
+              "RelativeDocumentMoniker": "Source\\Rendering\\ShaderStageStateDX11.cpp",
+              "ToolTip": "E:\\My Files\\Uni\\Handed in CW\\5208COMP-Coursework-Template (2022) (3)\\5208COMP-Coursework-Template (2022)\\Source\\Rendering\\ShaderStageStateDX11.cpp",
+              "RelativeToolTip": "Source\\Rendering\\ShaderStageStateDX11.cpp",
+              "ViewState": "AQIAAAEAAADAzMzMzIwtwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T15:25:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LJMUGeometryActor.cpp",
+              "DocumentMoniker": "E:\\My Files\\Uni\\Handed in CW\\5208COMP-Coursework-Template (2022) (3)\\5208COMP-Coursework-Template (2022)\\Applications\\5208COMP-Coursework-Template\\LJMUGeometryActor.cpp",
+              "RelativeDocumentMoniker": "Applications\\5208COMP-Coursework-Template\\LJMUGeometryActor.cpp",
+              "ToolTip": "E:\\My Files\\Uni\\Handed in CW\\5208COMP-Coursework-Template (2022) (3)\\5208COMP-Coursework-Template (2022)\\Applications\\5208COMP-Coursework-Template\\LJMUGeometryActor.cpp",
+              "RelativeToolTip": "Applications\\5208COMP-Coursework-Template\\LJMUGeometryActor.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwDkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T13:56:24.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

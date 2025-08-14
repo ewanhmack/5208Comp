@@ -1,0 +1,15 @@
+E:\6107COMP\6107COMP-Workshop-Template (NEW)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+E:\6107COMP\6107COMP-Workshop-Template (NEW)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.pdb
+C:\Users\Sud\Downloads\6107COMP-Coursework-Template (2019)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+C:\Users\Sud\Downloads\5108COMP-Coursework-Template (2019)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+C:\Users\CSMMBURN\Local\Coursework\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+C:\Users\csmemack\Workspace\MATTHEW AAAAAAAAAAAAAAAAAAAAAAAAA\Coursework\Coursework\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+E:\My Files\Uni\Year 2\5208Comp\Coursework\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+E:\My Files\Uni\Year 2\5208Comp\Coursework\backup\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+E:\My Files\Uni\Year 2\5208Comp\Coursework\backup\5208-29.11.24 Coursework\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+E:\My Files\Uni\Year 2\5208Comp\Coursework\backup\OBJ-Coursework\5208-29.11.24 Coursework\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+C:\Users\csmemack\Workspace\5208-29.11.24 Coursework\5208-29.11.24 Coursework\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+C:\Users\ewanm\Downloads\5208COMP-Coursework-Template (2022) (4)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+C:\Users\csmemack\Workspace\5208COMP-Coursework-Template (2022) (4)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+C:\Users\ewanm\Downloads\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
+E:\My Files\Uni\Handed in CW\5208COMP-Coursework-Template (2022) (3)\5208COMP-Coursework-Template (2022)\Dependencies\DirectXTK\Bin\Desktop_2012\Win32\Debug\DirectXTK.lib
